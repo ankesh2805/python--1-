@@ -8,6 +8,11 @@ for key  in emp.keys():
   print(key)
 for value  in emp.values():
   print(value)
+for key  in emp.keys():
+  print(key)
+for value  in emp.values():
+  print(value)
+
 
 
 
